@@ -1,0 +1,15 @@
+"action: javascript object
+reducer: javascript function that change the state
+state: contains the data
+store: object that contains reducer
+dispatch: وسيط بين action-reducer"
+
+"Story"
+
+"action take type of action(name of action), then it will talk with
+dispatch, then check about it by name in reducer to do that function
+in reducer, then reducer will change the state(data)"
+
+"action => dispatch => reducer => state"
+
+"reducer take 2 arguments (state,action)"
